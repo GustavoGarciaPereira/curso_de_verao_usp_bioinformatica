@@ -2,3 +2,5 @@
 Criado com o objetivo de colocar o material e exercícios do curso de verão da usp
 
 Gustavo Garcia Pereira
+
+verificar os slides para tomar a materia
