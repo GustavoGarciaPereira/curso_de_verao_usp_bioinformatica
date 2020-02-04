@@ -1,0 +1,6 @@
+ip  >>   3.90.41.56
+
+
+comando para entrar no servidor
+
+sudo ssh -i cursoBioInfoMurilo.pem user39@3.90.41.56
